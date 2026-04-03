@@ -1,0 +1,27 @@
+.btn-store {
+  background: #d10437;
+  color: white;
+  border-radius: 12px;
+  padding: 10px;
+  text-align: center;
+  display: block;
+  transition: 0.2s;
+}
+
+.btn-store:hover {
+  opacity: 0.85;
+}
+
+
+.category-active {
+  background: #d10437;
+  color: white;
+}
+
+
+.product-image {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 16px;
+}
